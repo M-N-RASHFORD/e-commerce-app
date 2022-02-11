@@ -47,7 +47,7 @@ const Home = () => {
     }, []);
   return (
     <div style={{display: 'flex'},{alignItems: 'stretch'}}>
-        <Categories title="men's clothing" products={mensClothings}/>
+        <Categories title="Men's clothing" products={mensClothings}/>
         <Categories title="Jewelery" products={jewelery}/>
         <Categories title="Electronics" products={electronics}/>
         <Categories title="Women's clothings" products={womensClothings}/>

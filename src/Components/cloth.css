@@ -14,3 +14,8 @@ ul{
     justify-content: center;
     align-items: stretch;
 }
+h3{
+    display: block;
+    background-color: #000;
+    color: #fff;
+}

@@ -1,12 +1,11 @@
 import React from 'react';
 import Home from './Pages/Home';
-import Signup from './Pages/Signup';
-import Login from './Pages/Login';
+import Search from './Pages/Search';
 
 function App() {
     return (
         <div>
-            <Home />
+            <Search />
         </div>
     );
 }
